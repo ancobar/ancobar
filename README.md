@@ -10,10 +10,10 @@ This portfolio showcases a curated collection of my academic, personal, and team
 
 ## 🚀 Skills & Tools
 
-- **Languages**: Python, SQL, Spark, Git
+- **Languages**: Python, SQL, PySpark, Git
 - **Tools**: Apache NiFi, HDFS
-- **Libraries**: Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn
-- **Platforms**: Jupyter, VS Code, GitHub, Tableau, Looker Studio, Power BI
+- **Libraries**: Pandas, Numpy, Scikit-learn, SciPy, Statsmodels, Matplotlib, Seaborn
+- **Platforms**: Jupyter Lab, VS Code, GitHub, Tableau, Looker Studio, Power BI
 - **Concepts**: Machine Learning, Data Architecture, Feature Engineering, Time Series Forecasting, Cloud Fundamentals
 
 
