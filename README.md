@@ -1,7 +1,24 @@
-# 🎓 GitHub Portfolio
+# 👋 Hi, I'm Ana
 
-Welcome to my portfolio! I'm currently pursuing a Master's in Business Analytics and Data Science at IE. This space will soon showcase all the academic and personal projects I've completed during my studies.
+`Welcome to my GitHub Portfolio!`
 
-🚧 This portfolio is under construction. Stay tuned!
+I'm a Business Analytics & Data Science Master's student with a background in Finance.
+I’m passionate about using data to solve real-world problems — especially about technology, sustainability, and business strategy.
 
-In the meantime, feel free to check out my individual project repositories listed below.
+This portfolio showcases a curated collection of my academic, personal, and team projects. From building ML models for solar energy optimization and credit risk scoring to analyzing Olympic performance using big data tools, these projects reflect my journey transitioning from Finance to a more technical, data-driven career.
+
+
+## 🚀 Skills & Tools
+
+- **Languages**: Python, SQL, Spark, Git
+- **Tools**: Apache NiFi, HDFS
+- **Libraries**: Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn
+- **Platforms**: Jupyter, VS Code, GitHub, Tableau, Looker Studio, Power BI
+- **Concepts**: Machine Learning, Data Architecture, Feature Engineering, Time Series Forecasting, Cloud Fundamentals
+
+
+## 📫 Let’s Connect
+
+Feel free to reach out if you're interested in collaboration, research, or just talking data!
+
+- [LinkedIn](https://www.linkedin.com/in/anacortesbarquier)
